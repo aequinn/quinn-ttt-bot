@@ -1,0 +1,9 @@
+{
+  "v": 1,
+  "name": "quinn-ttt-bot",
+  "avatar": "qjaMgdaHfkaasibaa",
+  "preferredColor": "violet",
+  "language": "javascript.node",
+  "game": "tic-tac-toe",
+  "run": "node main.js"
+}
